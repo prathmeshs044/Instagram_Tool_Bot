@@ -5,6 +5,6 @@ The following is the Python project using Selenium - browser automation tool whi
 2) After entering the right input the user has to enter their Instagram account id and password.
 3) Finally the user has to input n number of hashtags as per their choice!
 The browser automatically logs in with your id and password and immediately direct you to your preferred #hashtag searches after scrolling through the hashtags each individual post is being opened and the like and follow button is clicked as per user's choice
-The following project can be a boon for Instagram influencers and e-sellers who hold a good market on Instagram!!!
-In order to gain followers
+#The following project can be a boon for Instagram influencers and e-sellers who hold a good market on Instagram!!!
+#In order to gain followers
 
